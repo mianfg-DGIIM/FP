@@ -1,6 +1,6 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg-DGIIM)
 
-![Repo image](https://repository-images.githubusercontent.com/292309686/53065a00-ed3b-11ea-989f-7b4219ac4156)
+![Repo image](https://repository-images.githubusercontent.com/292309686/10480247-a342-4c9e-9e3a-2cfbd20a37dd)
 
 # `FP` Fundamentos de Programación
 
